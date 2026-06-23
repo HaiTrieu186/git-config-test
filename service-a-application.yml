@@ -1,0 +1,6 @@
+app:
+    username: Doremon-hihihi
+    password: 123
+
+server:
+    port: 8081

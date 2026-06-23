@@ -1,0 +1,6 @@
+app:
+    username: Suneo
+    password: 789
+
+server:
+    port: 8083

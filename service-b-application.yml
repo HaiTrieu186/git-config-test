@@ -1,0 +1,6 @@
+app:
+    username: Nobita
+    password: 456
+
+server:
+    port: 8082
